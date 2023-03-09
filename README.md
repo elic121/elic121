@@ -1,8 +1,8 @@
-### HELLO 👋
+# HELLO 👋
  
 
 
-### ❤️`I love python`❤️
+## ❤️`I love python`❤️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic121&show_icons=true&theme=highcontrast)
 <!--
