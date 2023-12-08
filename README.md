@@ -1,13 +1,17 @@
-# Hello, World!!
+## ![header](https://capsule-render.vercel.app/api?type=soft&color=FFE873&height=200&section=header&text=Hello,%20World!!&fontSize=65&fontColor=306998&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)
 
-## ❤️`I love python`❤️
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felic121%2Felic121&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Felic121%2Felic121&count_bg=%2379C83D&title_bg=%23555555&icon=python.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121)](https://solved.ac/elic121/)
+![elic121's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic121&show_icons=true&theme=radical)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elic121&show_icons=true&theme=highcontrast)
 <!--
 **elic121/elic121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
