@@ -1,10 +1,10 @@
 <!-- ## ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=006400&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)-->
 
 <h2 align="left"> 🤔 WhoamI </h2>
-  
-  <p>$\sf{\large{\color{#FF69B4}I\ am\ a\ student\ who \ wants\ to\ become\ a\ Backend\ developer.}}$</p>
-  <p>$\sf{\large{\color{#FF69B4}I\ believe\ that\ a\ good\ developer\ is\ someone\ who\ actively\ provides\ services\ that\ users\ need.}}$</p>
-  <p>$\sf{\large{\color{#FF69B4}Currently,\ the \ language \ I \ mainly \ use \ is \ Python, \ but \ I \ am \ also \ studying \ languages \ such \ as \ Java \ and \ JavaScript.}}$</p>
+
+  <p>$\sf{\large{\color{#FF69B4}I\ am\ a\ student}}$<br>$\sf{\large{\color{#FF69B4}who \ wants\ to\ become\ a\ Backend\ developer.}}$</p>
+  <p>$\sf{\large{\color{#FF69B4}I\ believe\ that\ a\ good\ developer\ is\ someone}}$<br>$\sf{\large{\color{#FF69B4} who\ actively\ provides\ services\ that\ users\ need.}}$</p>
+  <p>$\sf{\large{\color{#FF69B4}Currently,\ the \ language \ I \ mainly \ use \ is \ Python,}}$<br>$\sf{\large{\color{#FF69B4}but \ I \ am \ also \ studying \ languages \ such \ as \ Java \ and \ JavaScript.}}$</p>
   
   <!-- *I am a student who wants to become a Backend developer.*    
   *I believe that a good developer is someone who actively provides services that users need.*  
