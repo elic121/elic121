@@ -1,13 +1,13 @@
-## ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=2E2E2E&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)
+<!-- ## ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=006400&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)-->
 
 <h2 align="left"> Profile </h2>
 
-| Year    | Detail                                    |
-| ---------- | ---------------------------------------------- |
-| 2018 ~ 2024 | Ajou University, Bachelor of Electronic Engineering |
-| 2019 ~ 2020 | Republic of Korea Army 28th Division, Driver |
-| 2023 ~ 2023 | Alchera Inc., Python Scriptor |
-| 2024 ~ | Samsung Software Academy for Youth, Student |
+| Year    | Contents | Organization | 
+| ---------- | ---------------------------------------------- | ------------------------------------------|
+| 2018 ~ 2024 | 👨🏻‍🎓 Electronic Engineering, Student | Ajou University |
+| 2019 ~ 2020 | 🇰🇷 Military Logistics Department, Driver | Republic of Korea Army 28th Division |
+| 2023 ~ 2023 | 💼 Data Science div., Python Scriptor | Alchera Co., Ltd. |
+| 2024 ~ | 👨‍💻 Student | Samsung Software Academy for Youth |
 
 <h2 align="left"> Follow Me </h2>
 
