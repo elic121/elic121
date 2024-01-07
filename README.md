@@ -21,19 +21,24 @@
   
   | 🔤 **Languages**  | 📈 Level | 
   | :---------- | ---------------------------------------------- |
-  | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> | ⭐⭐⭐⭐⭐⭐⭐⭐ |
+  | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ⭐⭐⭐⭐⭐⭐⭐⭐ |
   | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> | ⭐⭐⭐⭐ |
   | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> |⭐|
   | |  |
   | |  |
   | 🧮 **Frameworks**  | | 
   | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"> | ⭐⭐ |
+  | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ⭐⭐ |
   |  |  |
   |  |  |
   | 🛠️ **Tools**  |  | 
   | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> | ⭐⭐⭐⭐⭐⭐⭐ |
   | <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> | ⭐⭐⭐⭐ |
   | <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> | ⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | ⭐⭐ |
 
 </p>
 
