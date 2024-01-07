@@ -31,7 +31,7 @@
 
 <h2 align="left"> 📋 $\textbf{\large{\color{#6CA6CD}Profile}}$ </h2>
 
-  | 🕛 Year    | 📋 Contents | 👨‍👩‍👦‍👦 Organization | 
+  | 🕛 **Year**    | 📋 **Contents** | 👨‍👩‍👦‍👦 **Organization** | 
   | ---------- | ---------------------------------------------- | ------------------------------------------|
   | 2018 ~ 2024 | 👨🏻‍🎓 Electronic Engineering, Student | 🏫 Ajou University |
   | 2018 ~ 2024 | 🙎‍♂️ Member and President | 📸 Ajou Univ. Central Photography Club  |
