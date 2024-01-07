@@ -37,7 +37,7 @@
   | 2018 ~ 2024 | 🙎‍♂️ Member and President | 📸 [Ajou Univ. Central Photography Club](https://www.instagram.com/asa_ajou/)  |
   | 2019 ~ 2020 | 🚛 Military Logistics Department, Driver | 🇰🇷 [Republic of Korea Army 28th Division](https://ko.wikipedia.org/wiki/%EC%A0%9C28%EB%B3%B4%EB%B3%91%EC%82%AC%EB%8B%A8_(%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD)) |
   | 2023 ~ 2023 | 💼 Data Science div., Python Scriptor | 🏢 [Alchera Co., Ltd.](https://alchera.ai/) |
-  | 2024 ~ | 👨‍💻 Student | 🏢 [Samsung Software Academy for Youth](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) |
+  | 2024 ~ | 👨‍💻 Student | 🏢 [Samsung Software Academy for Youth](https://www.ssafy.com/) |
 
 <!--<h2 align="left"> 🚶 Follow Me </h2>
 
