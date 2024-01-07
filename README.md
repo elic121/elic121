@@ -17,22 +17,23 @@
 
 <h2 align="left"> Tech Stack </h2>
 <p align="left">
-  <h4 align="left"> Languages </h4>
-  <p align="left">  
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/></a>&nbsp 
-  </p>
-  <h4 align="left"> Frameworks </h4>
-  <p align="left">  
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>&nbsp 
-  </p>
-  <h4 align="left"> Tools </h4>
-  <p align="left">  
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/></a>&nbsp 
-    <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/></a>&nbsp 
-  </p>
+  
+  | 🔤 Languages  | 📈 Level | 
+  | :---------- | ---------------------------------------------- |
+  | <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> | ⭐⭐⭐⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> | ⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+
+  | 🔤 Frameworks  | 📈 Level | 
+  | :---------- | ---------------------------------------------- |
+  | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+
+  | 🔤 Tools  | 📈 Level | 
+  | :---------- | ---------------------------------------------- |
+  | <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> | ⭐⭐⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
+  | <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> | ⭐⭐⭐⭐ |
+
 </p>
 
 <h2 align="left"> Baekjoon Online Judge </h2>
