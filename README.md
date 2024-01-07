@@ -2,12 +2,12 @@
 
 <h2 align="left"> Profile </h2>
 
-| Year    | Contents | Organization | 
+| 🕛 Year    | 📋 Contents | 👨‍👩‍👦‍👦 Organization | 
 | ---------- | ---------------------------------------------- | ------------------------------------------|
-| 2018 ~ 2024 | 👨🏻‍🎓 Electronic Engineering, Student | Ajou University |
-| 2019 ~ 2020 | 🇰🇷 Military Logistics Department, Driver | Republic of Korea Army 28th Division |
-| 2023 ~ 2023 | 💼 Data Science div., Python Scriptor | Alchera Co., Ltd. |
-| 2024 ~ | 👨‍💻 Student | Samsung Software Academy for Youth |
+| 2018 ~ 2024 | 👨🏻‍🎓 Electronic Engineering, Student | 🏫 Ajou University |
+| 2019 ~ 2020 | 🇰🇷 Military Logistics Department, Driver | 🚧 Republic of Korea Army 28th Division |
+| 2023 ~ 2023 | 💼 Data Science div., Python Scriptor | 🏢 Alchera Co., Ltd. |
+| 2024 ~ | 👨‍💻 Student | 🏢 Samsung Software Academy for Youth |
 
 <h2 align="left"> Follow Me </h2>
 
