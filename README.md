@@ -10,10 +10,11 @@
   | 2023 ~ 2023 | 💼 Data Science div., Python Scriptor | 🏢 Alchera Co., Ltd. |
   | 2024 ~ | 👨‍💻 Student | 🏢 Samsung Software Academy for Youth |
 
-<h2 align="left"> 🚶 Follow Me </h2>
+<!--<h2 align="left"> 🚶 Follow Me </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yui1ove?igshid=OGQ5ZDc2ODk2ZA==)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@elic121) 
+-->
 
 <h2 align="left"> 💻 Tech Stack </h2>
 <p align="left">
