@@ -1,5 +1,14 @@
 ## ![header](https://capsule-render.vercel.app/api?type=soft&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=2E2E2E&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)
 
+<h2 align="left"> Profile </h2>
+
+| Year    | Detail                                    |
+| ---------- | ---------------------------------------------- |
+| 2018 ~ 2024 | Ajou University, Bachelor of Electronic Engineering |
+| 2019 ~ 2020 | Republic of Korea Army 28th Division, Driver |
+| 2023 ~ 2023 | Alchera Inc., Python Scriptor |
+| 2024 ~ | Samsung Software Academy for Youth, Student |
+
 <h2 align="left"> Follow Me </h2>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yui1ove?igshid=OGQ5ZDc2ODk2ZA==)
