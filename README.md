@@ -1,18 +1,27 @@
 <!-- ## ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=006400&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)-->
 
-<h2 align="left"> 🤔 $\it{\large{\color{#6CA6CD}WhoamI}}$</h2>
+<h2 align="left"> 🤔 $\textbf{\large{\color{#6CA6CD}WhoamI}}$</h2>
 
-  <p>$\sf{\large{\color{#FF69B4}I\ am\ a\ student}}$<br>$\sf{\large{\color{#FF69B4}who \ wants\ to\ become\ a\ Backend\ developer.}}$</p>
-  <p>$\sf{\large{\color{#FF69B4}I\ believe\ that\ a\ good\ developer\ is\ someone}}$<br>$\sf{\large{\color{#FF69B4} who\ actively\ provides\ services\ that\ users\ need.}}$</p>
-  <p>$\sf{\large{\color{#FF69B4}Currently,\ the \ language\ I\ mainly\ use\ is\ Python,}}$<br>$\sf{\large{\color{#FF69B4}but\ I\ am\ also\ studying\ languages}}$<br>$\sf{\large{\color{#FF69B4}such\ as\ Java\ and\ JavaScript.}}$</p>
+  <p>$\sf{\normalsize{\color{#FF69B4}I\ am\ a\ student}}$
+    <br>$\sf{\normalsize{\color{#FF69B4}who \ wants\ to\ become\ a\ Backend\ developer.}}$
+  </p>
+    
+  <p>$\sf{\normalsize{\color{#FF69B4}I\ believe\ that\ a\ good\ developer\ is\ someone}}$
+    <br>$\sf{\normalsize{\color{#FF69B4} who\ actively\ provides\ services\ that\ users\ need.}}$
+  </p>
+    
+  <p>$\sf{\normalsize{\color{#FF69B4}Currently,\ the \ language\ I\ mainly\ use\ is\ Python,}}$
+    <br>$\sf{\normalsize{\color{#FF69B4}but\ I\ am\ also\ studying\ languages}}$
+    <br>$\sf{\normalsize{\color{#FF69B4}such\ as\ Java\ and\ JavaScript.}}$
+  </p>
+  
   <!-- *I am a student who wants to become a Backend developer.*    
   *I believe that a good developer is someone who actively provides services that users need.*  
   *Currently, the language I mainly use is Python, but I am also studying languages ​​such as Java and JavaScript.* -->
   
+  <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04976f12-ed6b-40d8-bf9b-504906ca596e/ddpgoax-7f703d3b-c441-4597-837e-ac2802421d4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0OTc2ZjEyLWVkNmItNDBkOC1iZjliLTUwNDkwNmNhNTk2ZVwvZGRwZ29heC03ZjcwM2QzYi1jNDQxLTQ1OTctODM3ZS1hYzI4MDI0MjFkNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qofJSDLtfWo73xnpTy9C5CIu543QM8xTgByL9sQrPo0" width="35%" height="auto"/>
 
-  <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04976f12-ed6b-40d8-bf9b-504906ca596e/ddpgoax-7f703d3b-c441-4597-837e-ac2802421d4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0OTc2ZjEyLWVkNmItNDBkOC1iZjliLTUwNDkwNmNhNTk2ZVwvZGRwZ29heC03ZjcwM2QzYi1jNDQxLTQ1OTctODM3ZS1hYzI4MDI0MjFkNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qofJSDLtfWo73xnpTy9C5CIu543QM8xTgByL9sQrPo0" width="auto" height="auto"/>
-
-<h2 align="left"> 📋 $\it{\large{\color{#6CA6CD}Profile}}$ </h2>
+<h2 align="left"> 📋 $\textbf{\large{\color{#6CA6CD}Profile}}$ </h2>
 
   | 🕛 Year    | 📋 Contents | 👨‍👩‍👦‍👦 Organization | 
   | ---------- | ---------------------------------------------- | ------------------------------------------|
@@ -28,7 +37,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@elic121) 
 -->
 
-<h2 align="left"> 💻 $\it{\large{\color{#6CA6CD}Tech\ Stack}}$ </h2>
+<h2 align="left"> 💻 $\textbf{\large{\color{#6CA6CD}Tech\ Stack}}$ </h2>
 <p align="left">
   
   | 🔤 **Languages**  | 📈 Level | 
@@ -53,7 +62,7 @@
   | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | ⭐⭐ |
 
 </p>
-<h2 align="left"> 👨‍💻 $\it{\large{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$  </h2>
+<h2 align="left"> 👨‍💻 $\textbf{\large{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$  </h2>
 <p align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121"/></a>&nbsp 
 </p>
