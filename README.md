@@ -15,9 +15,16 @@
     <br>$\sf{\normalsize{\color{#FF69B4}such\ as\ Java\ and\ JavaScript.}}$
   </p>
   
-  <!-- *I am a student who wants to become a Backend developer.*    
+  <p>$\sf{\normalsize{\color{#FF69B4}Finally,\ I \ want\ to\ become\ a\ developer}}$
+    <br>$\sf{\normalsize{\color{#FF69B4}who\ fulfills\ my\ role.}}$
+  </p>
+  
+  <!--
+  *I am a student who wants to become a Backend developer.*    
   *I believe that a good developer is someone who actively provides services that users need.*  
-  *Currently, the language I mainly use is Python, but I am also studying languages ​​such as Java and JavaScript.* -->
+  *Currently, the language I mainly use is Python, but I am also studying languages ​​such as Java and JavaScript.* 
+  *I want to become a developer who fulfills my role.
+  -->
   
   <!-- <img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/04976f12-ed6b-40d8-bf9b-504906ca596e/ddpgoax-7f703d3b-c441-4597-837e-ac2802421d4c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA0OTc2ZjEyLWVkNmItNDBkOC1iZjliLTUwNDkwNmNhNTk2ZVwvZGRwZ29heC03ZjcwM2QzYi1jNDQxLTQ1OTctODM3ZS1hYzI4MDI0MjFkNGMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.qofJSDLtfWo73xnpTy9C5CIu543QM8xTgByL9sQrPo0" width="35%" height="auto"/> -->
 
