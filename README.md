@@ -1,6 +1,6 @@
 <!-- ## ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:FFE4D6,100:B0578D&height=200&section=header&text=Hello,%20World!!&fontSize=80&fontColor=006400&fontAlignY=50&animation=fadeIn&desc=Beak's%20GitHub&descAlign=67&descAlignY=80)-->
 
-<h2 align="left"> 🤔 $\textbf{\large{\color{#6CA6CD}WhoamI}}$</h2>
+<h2 align="left"> 🤔 $\textbf{\normalsize{\color{#6CA6CD}WhoamI}}$</h2>
 
   <p>$\sf{\normalsize{\color{#FF69B4}I\ am\ a\ student}}$
     <br>$\sf{\normalsize{\color{#FF69B4}who \ wants\ to\ become\ a\ Backend\ developer.}}$
@@ -29,7 +29,7 @@
 </figure>
 
 
-<h2 align="left"> 📋 $\textbf{\large{\color{#6CA6CD}Profile}}$ </h2>
+<h2 align="left"> 📋 $\textbf{\normalsize{\color{#6CA6CD}Profile}}$ </h2>
 
   | 🕛 **Year**    | 📋 **Contents** | 👨‍👩‍👦‍👦 **Organization** | 
   | ---------- | ---------------------------------------------- | ------------------------------------------|
@@ -45,7 +45,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@elic121) 
 -->
 
-<h2 align="left"> 💻 $\textbf{\large{\color{#6CA6CD}Tech\ Stack}}$ </h2>
+<h2 align="left"> 💻 $\textbf{\normalsize{\color{#6CA6CD}Tech\ Stack}}$ </h2>
 <p align="left">
   
   | 🔤**Languages**  | 📈 Level | 
@@ -73,7 +73,7 @@
   | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | ⭐⭐ |
 
 </p>
-<h2 align="left"> 👨‍💻 $\textbf{\large{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$  </h2>
+<h2 align="left"> 👨‍💻 $\textbf{\normalsize{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$  </h2>
 <p align="left">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121"/></a>&nbsp 
 </p>
