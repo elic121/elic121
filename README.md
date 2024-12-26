@@ -10,42 +10,7 @@
 
 ---
 
-<h2 align="left"> 💻 $\textbf{\normalsize{\color{#6CA6CD}Tech\ Stack}}$ </h2>
-
-| 🔤 **Languages** | 📈 **Level** |
-| ---------------- | ------------ |
-| <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> | ⭐⭐⭐⭐⭐⭐⭐⭐ |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ⭐⭐⭐⭐⭐⭐ |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> | ⭐⭐⭐ |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ⭐⭐⭐ |
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> | ⭐ |
-
-| 🧮 **Frameworks** | 📈 **Level** |
-| ---------------- | ------------ |
-| ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> | ⭐⭐⭐ |
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | ⭐⭐⭐ |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | ⭐⭐ |
-| ![vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | ⭐ |
-| ![vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | ⭐ |
-
-| 🛠️ **Tools** | 📈 **Level** |
-| ------------ | ------------ |
-| <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/> | ⭐⭐⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/> | ⭐⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white"/> | ⭐⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/> | ⭐⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> | ⭐⭐⭐ |
-| <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> | ⭐⭐ |
-
----
-
 <h2 align="left"> 👨‍💻 $\textbf{\normalsize{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$ </h2>
 
-<p align="left">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121"/>
-</p>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121)](https://solved.ac/elic121/)
