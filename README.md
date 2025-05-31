@@ -1,4 +1,4 @@
-<h2 align="left"> 📋 $\textbf{\normalsize{\color{#6CA6CD}Profile}}$ </h2>
+<h2 align="left"> 📋 Profile </h2>
 
 | 🕛 **Year**    | 📋 **Contents**                                  | 👨‍👩‍👦‍👦 **Organization**                                                                 |
 | ------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------- |
@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="left"> 💻 $\textbf{\normalsize{\color{#6CA6CD}Tech\ Stack}}$ </h2>
+<h2 align="left"> 💻 Tech Stack </h2>
 
 | 🔤 **Languages** | 🧮 **Frameworks** | 🛠️ **Tools** |
 | ----------------- | ----------------- | ------------ |
@@ -24,7 +24,7 @@
 
 
 ---
-<h2 align="left"> 👨‍💻 $\textbf{\normalsize{\color{#6CA6CD}Baekjoon\ Online\ Judge}}$ </h2>
+<h2 align="left"> 👨‍💻 Baekjoon Online Judge </h2>
 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=elic121)](https://solved.ac/elic121/)
