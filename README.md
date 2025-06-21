@@ -9,7 +9,7 @@
 | 2024 ~ 2024   | 👨‍💻 Student                                      | 🏢 [Samsung Software Academy for Youth](https://www.ssafy.com/)                          |
 
 ---
-
+ <!--
 <h2 align="left"> 💻 Tech Stack </h2>
 
 | 🔤 **Languages** | 🧮 **Frameworks** | 🛠️ **Tools** |
@@ -22,8 +22,8 @@
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | ![vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) | <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/> |
 | <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/> | ![vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) | <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> |
 
-
 ---
+-->
 <h2 align="left"> 👨‍💻 Baekjoon Online Judge </h2>
 
 
